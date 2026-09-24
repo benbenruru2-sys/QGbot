@@ -1,3 +1,5 @@
+#Yes this is vibe coded, but i am way to lazy to make a sanitizing function myself (all the other code isn't vibe coded tho)
+
 import discord
 
 def sanitize(text: str) -> str:
